@@ -1,0 +1,11 @@
+{
+  "licenses": [
+    {
+      "key": "TSH-2026-TEST-001",
+      "name": "Test User",
+      "email": "test@company.com",
+      "active": true,
+      "plan": "monthly"
+    }
+  ]
+}
